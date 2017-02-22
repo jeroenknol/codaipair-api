@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/codaipairApi",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "7cwIIkSqeJ13HdGBNtxU20HOjU+LU+I1PZlPiPPuaWq3BKRrIbLMAwNnbBsCz+TTh21UlgVn2hmwADQD7SCsbA=="
+    },
+    "local": {}
+  }
+}
